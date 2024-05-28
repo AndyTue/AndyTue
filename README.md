@@ -10,10 +10,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/andres-turriza/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andres-turriza/"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" width="40" /></a>
 <a href="andy_djte@hotmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/andy_tue/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
-<a href="https://www.facebook.com/Andy.Turriza"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/andy_tue/"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Andy.Turriza"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
 </p>
 
 
