@@ -5,7 +5,7 @@
 👨‍💻 &nbsp;As a highly motivated software engineering student with a passion for technology and sports, I am always striving to learn and grow while lending my skills and expertise to help others succeed.r.\
 🎓 &nbsp;I'm currently studying Software Engineering at the Universidad Autónoma de Yucatán .\
 ✉️ &nbsp;You can shoot me an email at andy_djte@hotmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://1drv.ms/b/s!AndFIVNu5qUNkAlBA6FTmm4NO5JF?e=t6JRUU) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://1drv.ms/b/s!AndFIVNu5qUNkAlBA6FTmm4NO5JF?e=t6JRUU) for more details about me. I'm open to feedback and suggestions!
 
 
 
